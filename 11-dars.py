@@ -1,4 +1,5 @@
 # WHILE
+# 351-bolajonlari
 
 # a = 2
 # while a <= 10:
